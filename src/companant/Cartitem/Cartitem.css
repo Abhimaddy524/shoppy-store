@@ -1,0 +1,12 @@
+.cartitem{
+    display: flex;
+    margin: 12px 72px;
+    border: 1px solid lightblue;
+    padding: 12px;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    height: 80px;
+    width: 80px;
+}

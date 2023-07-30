@@ -1,0 +1,39 @@
+.upprnav{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+ 
+}
+.cart{
+    color: brown;
+    gap: 10px;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+ gap: 1000px;
+    margin: 20px;
+}
+
+/* } */
+.buttons{
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 20px;
+}
+.navbar{
+    border: 1px solid darkgray;
+}
+.icon-container{
+    display: flex;
+    align-items: center;
+}
+.flex-items{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}

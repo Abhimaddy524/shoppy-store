@@ -1,0 +1,12 @@
+.buttons{
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    width: 100;
+}
+.all{
+    color: blue;
+}
+.navbar{
+    border: 1px solid lightgrey;
+}

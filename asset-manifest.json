@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shoppy-store/static/css/main.86de5e78.css",
+    "main.js": "/shoppy-store/static/js/main.141bbff3.js",
+    "static/js/787.ad61e84a.chunk.js": "/shoppy-store/static/js/787.ad61e84a.chunk.js",
+    "index.html": "/shoppy-store/index.html",
+    "main.86de5e78.css.map": "/shoppy-store/static/css/main.86de5e78.css.map",
+    "main.141bbff3.js.map": "/shoppy-store/static/js/main.141bbff3.js.map",
+    "787.ad61e84a.chunk.js.map": "/shoppy-store/static/js/787.ad61e84a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86de5e78.css",
+    "static/js/main.141bbff3.js"
+  ]
+}
